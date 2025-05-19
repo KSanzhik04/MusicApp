@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="tab_profile">Profile</string>
+    <string name="tab_playlist">Playlist</string>
+</resources>
